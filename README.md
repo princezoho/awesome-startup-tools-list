@@ -225,6 +225,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - HubSpot - https://www.hubspot.com/
   - Marketing: https://www.hubspot.com/products/marketing
   - Sales: https://www.hubspot.com/products/sales
+- Suplex - https://trysuplex.com - All-in-one cold email and lead generation platform
 - Website Grader by HubSpot	http://grader.com
 - Buffer App - https://buffer.com
 - HootSuite - https://hootsuite.com
